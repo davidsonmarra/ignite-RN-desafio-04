@@ -25,7 +25,7 @@
   <li>Consumo da API da Twitch</li>
 </ul>
 
-<h3 id="funcionalidades">Resultado</h3>
+<h3 id="resultado">Resultado</h3>
 <div align="center">
 
 
